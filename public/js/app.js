@@ -3,7 +3,7 @@
 
 
 
- console.log('client side script is loaded')
+ 
 
 const weatherform=document.querySelector('form')
 const search=document.querySelector('input')
